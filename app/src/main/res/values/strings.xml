@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">RelativeLayout_Daffa_XIIRPL</string>
+    <string name="text_hello">Hello World!</string>
+
+    <string-array name="daya_array">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+    <string-array name="time_array">
+        <item>00.00 AM</item>
+        <item>01.00 AM</item>
+        <item>02.00 AM</item>
+        <item>03.00 AM</item>
+        <item>04.00 AM</item>
+        <item>05.00 AM</item>
+        <item>06.00 AM</item>
+        <item>07.00 AM</item>
+        <item>08.00 AM</item>
+        <item>09.00 AM</item>
+        <item>10.00 AM</item>
+        <item>11.00 AM</item>
+        <item>12.00 PM</item>
+        <item>13.00 PM</item>
+        <item>14.00 PM</item>
+        <item>15.00 PM</item>
+        <item>16.00 PM</item>
+        <item>17.00 PM</item>
+        <item>18.00 PM</item>
+        <item>19.00 PM</item>
+        <item>20.00 PM</item>
+        <item>21.00 PM</item>
+        <item>22.00 PM</item>
+        <item>23.00 PM</item>
+    </string-array>
+
+</resources>
