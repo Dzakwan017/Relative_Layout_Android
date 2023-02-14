@@ -6,7 +6,9 @@
     android:layout_height="match_parent"
     tools:context=".FoodActivity">
 
-    <include layout="@layout/toolbar_title" android:id="@+id/toolbar_title"/>
+    <include
+        android:id="@+id/toolbar_title"
+        layout="@layout/toolbar_title" />
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/search_bar"
         android:layout_width="match_parent"
@@ -15,7 +17,8 @@
         android:layout_margin="20dp"
         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
         app:startIconDrawable="@drawable/ic_baseline_search_24"
-        app:endIconDrawable="@drawable/ic_baseline_filter_list_24">
+        app:endIconDrawable="@drawable/ic_baseline_filter_list_24"
+        app:endIconMode="custom">
 
         <com.google.android.material.textfield.TextInputEditText
             android:layout_width="match_parent"
@@ -41,7 +44,7 @@
                 android:layout_width="50dp"
                 android:layout_height="wrap_content"
                 android:elevation="4dp"
-                android:backgroundTint="#ECE7E7"
+                android:backgroundTint="#949B9E"
                 app:cardCornerRadius="25dp"
                 android:layout_marginLeft="20dp">
 
@@ -65,7 +68,7 @@
                 android:layout_marginLeft="20dp"
                 android:layout_gravity="center_vertical"
                 android:elevation="4dp"
-                android:backgroundTint="#3C44D8"
+                android:backgroundTint="#4048E4"
                 app:cardCornerRadius="25dp">
 
                 <LinearLayout
@@ -101,7 +104,7 @@
                 android:layout_width="50dp"
                 android:layout_height="wrap_content"
                 android:elevation="4dp"
-                android:backgroundTint="#ECE7E7"
+                android:backgroundTint="#949B9E"
                 app:cardCornerRadius="25dp"
                 android:layout_marginLeft="20dp">
 

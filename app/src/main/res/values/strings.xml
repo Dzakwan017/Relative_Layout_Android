@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">RelativeLayout_Daffa_XIIRPL</string>
     <string name="text_hello">Hello World!</string>
-    <string name="title"><font color ='#000'>Lets find</font>\n<font color='#ffa500'>food </font> near you!</string>
+    <string name="title"><font color ='#000'>Lets find</font>\n<font color='#FF4048E4'>food </font> near you!</string>
 
     <string-array name="daya_array">
         <item>Monday</item>
